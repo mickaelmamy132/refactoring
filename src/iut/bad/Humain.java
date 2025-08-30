@@ -16,6 +16,7 @@ public class Humain implements Consommation {
 	    System.out.println(toString());
 	}
 	
+	
 	  /* (non-Javadoc)
 	 * @see iut.bad.Consommation#manger()
 	 */
